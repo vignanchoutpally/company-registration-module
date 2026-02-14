@@ -299,6 +299,26 @@ npm run build
 
 ISC
 
-## Support
+## 💬 Contact & Support
 
-For issues and questions, please open an issue on the repository.
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></td>
+      <td><a href="https://github.com/vignanchoutpally/company-registration-module/issues">Submit Issues & Feature Requests</a></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></td>
+      <td><a href="https://x.com/vignan7013">Follow for Updates</a></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></td>
+      <td><a href="mailto:vignandon2@gmail.com">Contact Developer</a></td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <p>Made with ❤️ for voice-powered document assistants</p>
+  <p>© 2025 | <a href="https://github.com/vignanchoutpally">Vignan Choutpally</a></p>
+</div>
