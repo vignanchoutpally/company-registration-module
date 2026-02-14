@@ -319,6 +319,5 @@ ISC
 </div>
 
 <div align="center">
-  <p>Made with ❤️ for voice-powered document assistants</p>
-  <p>© 2025 | <a href="https://github.com/vignanchoutpally">Vignan Choutpally</a></p>
+  <p>© 2026 | <a href="https://github.com/vignanchoutpally">Vignan Choutpally</a></p>
 </div>
